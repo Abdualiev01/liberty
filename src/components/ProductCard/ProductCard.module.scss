@@ -1,0 +1,81 @@
+@import '../../theme.scss';
+
+.card {
+    padding: 15px;
+    position: relative;
+    display: grid;
+    
+
+    &__title {
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 30px;
+        color: $black;
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    &__image {
+        width: 250px;
+        height: 250px;
+        object-fit: contain;
+        background: white;
+
+
+
+    }
+
+    &__price {
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 30px;
+        color: #000;
+    }
+
+    &__discount {
+        color: #898989;
+        text-decoration: line-through;
+        margin-left: 10px;
+    }
+
+    &__button {
+        background: $blue;
+        border-radius: 7px;
+        font-style: normal;
+        width: 100%;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 50px;
+        outline: none;
+        cursor: pointer;
+        border: 3px $blue solid;
+        color: $blue;
+        background: white;
+        margin-top: 24px;
+        
+    }
+    &__button__selected{
+        background: $blue;
+        color: #fff;
+    }
+    &__like {
+        position: absolute;
+        top: 30px;
+        right: 50px;
+        color: $blue;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+
+        width: 30px;
+        height: 30px;
+        border: none;
+        outline: none;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+    }
+
+
+}

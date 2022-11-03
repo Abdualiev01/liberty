@@ -1,0 +1,58 @@
+@import url('../../theme.scss');
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 75px;
+    margin-bottom: 75px;
+
+    &__item {
+        flex-basis: calc(25% - 15px);
+        margin-bottom: 30px;
+        position: relative;
+    }
+
+    &__image {
+        max-width: 100%;
+        object-fit: cover;
+        display: block;
+
+    }
+
+    &__button {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        height: 62px;
+        background: #1057a9;
+        border-radius: 13px 13px 0px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+}
+
+
+.discounts {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 75px;
+
+    &__title {
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 48px;
+        text-align: center;
+        color: #000;
+        margin-bottom: 30px;
+
+    }
+}

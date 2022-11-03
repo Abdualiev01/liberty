@@ -1,0 +1,311 @@
+{
+  "discounts":[
+    {
+      "id": 0,
+      "name": "Linen shirt(Blue Stripe)",
+      "category": "shirts",
+      "size": "L",
+      "image": [
+        "https://th.bing.com/th/id/OIP.95x6NTA7m7cyVN_60YZghAHaHa?pid=ImgDet&rs=1",
+        "https://images.asos-media.com/products/hollister-stripe-linen-shirt-in-light-blue/202801058-2?$n_1280w$&wid=1125&fit=constrain"
+      ],
+      "price": 399,
+      "discount": 1
+    },
+    {
+      "id": 1,
+      "name": "RELAXED SHIRT",
+      "category": "shirts",
+      "size": "L",
+      "image": [
+        "https://img.hollisterco.com/is/image/anf/KIC_325-2059-0663-904_prod1?policy=product-large",
+        "https://img.hollisterco.com/is/image/anf/KIC_325-2059-0663-904_model1?policy=product-small",
+        "https://img.hollisterco.com/is/image/anf/KIC_325-2059-0663-904_model2?policy=product-large"
+      ],
+      "price": 349,
+      "discount": 400
+    },
+    {
+      "id": 2,
+      "name": "AE Shirt",
+      "category": "shirts",
+      "size": "S",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/2154_5726_400_f?$pdp-m-opt$&fmt=webp",
+        "https://s7d2.scene7.com/is/image/aeo/2154_5726_400_b?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 439,
+      "discount": 500
+    },
+    {
+      "id": 3,
+      "name": "AE Polo Shirt",
+      "category": "shirts",
+      "size": "XS",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/5165_9222_395_f?$pdp-m-opt$&fmt=webp",
+        "https://s7d2.scene7.com/is/image/aeo/5165_9222_395_b?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 319,
+      "discount": 379
+    },
+    {
+      "id": 4,
+      "name": "Nike Air Max Genome",
+      "category": "shoes",
+      "size": 41,
+      "image": [
+        "https://img01.ztat.net/article/spp-media-p1/85140dd1be634c3ba4abf466ea02f12a/9da50cf917a34eb99aeed4274a84ad64.jpg?imwidth=500&filter=packshot",
+        "https://i.ebayimg.com/images/g/koMAAOSwXIpjKGFo/s-l500.jpg"
+      ],
+      "price": 1499,
+      "discount": 1599
+    },
+    {
+      "id": 5,
+      "name": " Nike Air Max Genome",
+      "category": "shoes",
+      "size": 40,
+      "image": [
+        "https://th.bing.com/th/id/R.fe40dae47db393135cfa9ff17578878c?rik=axPyNaCQmnE7LQ&pid=ImgRaw&r=0"
+      ],
+      "price": 1499,
+      "discount": 1599
+    },
+    {
+      "id": 6,
+      "name": "Nike React Live",
+      "category": "shoes",
+      "size": 41,
+      "image": [
+        "https://sneakerbardetroit.com/wp-content/uploads/2021/05/Nike-React-Live-Black-Dark-Smoke-Grey-White-CV1772-003-Release-Date-696x454.jpg"
+      ],
+      "price": 1199,
+      "discount": 1299
+    }
+  ],
+
+
+  
+  "products": [
+    {
+      "id": 0,
+      "name": "Linen shirt(Blue Stripe)",
+      "category": "shirts",
+      "size": "L",
+      "image": [
+        "https://th.bing.com/th/id/OIP.95x6NTA7m7cyVN_60YZghAHaHa?pid=ImgDet&rs=1",
+        "https://images.asos-media.com/products/hollister-stripe-linen-shirt-in-light-blue/202801058-2?$n_1280w$&wid=1125&fit=constrain"
+      ],
+      "price": 399,
+      "discount": 1
+    },
+    {
+      "id": 1,
+      "name": "RELAXED LIGHTWEIGHT SPLICED SHIRT",
+      "category": "shirts",
+      "size": "L",
+      "image": [
+        "https://img.hollisterco.com/is/image/anf/KIC_325-2059-0663-904_prod1?policy=product-large",
+        "https://img.hollisterco.com/is/image/anf/KIC_325-2059-0663-904_model1?policy=product-small",
+        "https://img.hollisterco.com/is/image/anf/KIC_325-2059-0663-904_model2?policy=product-large"
+      ],
+      "price": 349,
+      "discount": 400
+    },
+    {
+      "id": 2,
+      "name": "AE Shirt",
+      "category": "shirts",
+      "size": "S",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/2154_5726_400_f?$pdp-m-opt$&fmt=webp",
+        "https://s7d2.scene7.com/is/image/aeo/2154_5726_400_b?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 439,
+      "discount": 500
+    },
+    {
+      "id": 3,
+      "name": "AE Polo Shirt",
+      "category": "shirts",
+      "size": "XS",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/5165_9222_395_f?$pdp-m-opt$&fmt=webp",
+        "https://s7d2.scene7.com/is/image/aeo/5165_9222_395_b?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 319,
+      "discount": 379
+    },
+    {
+      "id": 4,
+      "name": "Nike Air Max Genome",
+      "category": "shoes",
+      "size": 41,
+      "image": [
+        "https://img01.ztat.net/article/spp-media-p1/85140dd1be634c3ba4abf466ea02f12a/9da50cf917a34eb99aeed4274a84ad64.jpg?imwidth=500&filter=packshot",
+        "https://i.ebayimg.com/images/g/koMAAOSwXIpjKGFo/s-l500.jpg"
+      ],
+      "price": 1499,
+      "discount": 1599
+    },
+    {
+      "id": 5,
+      "name": " Nike Air Max Genome",
+      "category": "shoes",
+      "size": 40,
+      "image": [
+        "https://th.bing.com/th/id/R.fe40dae47db393135cfa9ff17578878c?rik=axPyNaCQmnE7LQ&pid=ImgRaw&r=0"
+      ],
+      "price": 1499,
+      "discount": 1599
+    },
+    {
+      "id": 6,
+      "name": "Nike React Live",
+      "category": "shoes",
+      "size": 41,
+      "image": [
+        "https://sneakerbardetroit.com/wp-content/uploads/2021/05/Nike-React-Live-Black-Dark-Smoke-Grey-White-CV1772-003-Release-Date-696x454.jpg"
+      ],
+      "price": 1199,
+      "discount": 1299
+    },
+    {
+      "id": 7,
+      "name": "ASICS JGEL-PULSE 13 ",
+      "category": "shoes",
+      "size": 40.5,
+      "image": [
+        "https://cdn.idealo.com/folder/Product/201487/4/201487402/s4_produktbild_max_3/asics-gel-pulse-13-french-blue-white.jpg"
+      ],
+      "price": 13499
+    },
+    {
+      "id": 8,
+      "name": "WORKOUT READY TRACK PANT",
+      "category": "pants",
+      "size": "L",
+      "image": [
+        "https://target.scene7.com/is/image/Target/GUEST_f2746894-8fe4-4d7e-9229-cc8e6c50d8f0?wid=626&hei=626&qlt=80&fmt=pjpeg"
+      ],
+      "price": 499
+    },
+    {
+      "id": 9,
+      "name": "Reebok Training Pants",
+      "category": "pants",
+      "size": "L",
+      "image": [
+        "https://assets.reebok.com/images/w_600,f_auto,q_auto/41e4e1460c384ae6b534abcf017a2d64_9366/Training_Essentials_Woven_Unlined_Pants_Blue_FU3104_01_standard.jpg"
+      ],
+      "price": 449
+    },
+    {
+      "id": 10,
+      "name": "Reebok Training Pants",
+      "category": "pants",
+      "size": "L",
+      "image": [
+        "https://assets.reebok.com/images/h_640,f_auto,q_auto,fl_lossy,c_fill,g_auto/85270675eb604e8d86afab2d0184fa4c_9366/Training_Essentials_Woven_Unlined_Pants_Black_FP9170_01_standard.jpg"
+      ],
+      "price": 499
+    },
+    {
+      "id": 11,
+      "name": "Reebok BAG",
+      "category": "bags",
+      "image": [
+        "https://cdn.zando.co.za/p/402241-6707-142204-1-big.jpg"
+      ],
+      "price": 449
+    },
+    {
+      "id": 12,
+      "name": "Reebok",
+      "category": "bags",
+      "image": [
+        "https://assets.reebok.com/images/w_600,f_auto,q_auto/b493d14f4670421fb36aacbe00b783a3_9366/UBF_Backpack_Extra-Large_Black_H37649_01_standard.jpg"
+      ],
+      "price": 549
+    },
+    {
+      "id": 13,
+      "name": "Reebok TRAINING JACKET",
+      "category": "jackets",
+      "size": "L",
+      "image": [
+        "https://assets.reebok.com/images/h_640,f_auto,q_auto,fl_lossy,c_fill,g_auto/4813e9c00c814b689e36ab450172188a_9366/Training_Essentials_Jacket_Blue_FU3098_01_standard.jpg"
+      ],
+      "price": 549
+    },
+    {
+      "id": 14,
+      "name": "Reebok TRAINING JACKET",
+      "category": "jackets",
+      "image": [
+        "https://assets.reebok.com/images/h_640,f_auto,q_auto,fl_lossy,c_fill,g_auto/8824c5a20489461a9397ab2d01797141_9366/Training_Essentials_Jacket_Black_FP9172_01_standard.jpg"
+      ],
+      "price": 549
+    },
+    {
+      "id": 15,
+      "name": "HOLLISTER T-SHIRT",
+      "category": "t-shirts",
+      "size": "S",
+      "image": [
+        "https://img.hollisterco.com/is/image/anf/KIC_324-2343-0305-100_prod1?policy=product-large"
+      ],
+      "price": 149
+    },
+    {
+      "id": 16,
+      "name": "AE T-Shirt",
+      "category": "t-shirts",
+      "size": "L",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/0181_5638_100_f?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 279
+    },
+    {
+      "id": 17,
+      "name": "AE T-Shirt",
+      "category": "t-shirts",
+      "size": "L",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/1162_2012_900_f?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 319
+    },
+    {
+      "id": 18,
+      "name": "HOLLISTER",
+      "category": "t-shirts",
+      "size": "L",
+      "image": [
+        "https://img.hollisterco.com/is/image/anf/KIC_323-2241-0412-528_prod1?policy=product-large"
+      ],
+      "price": 259
+    },
+    {
+      "id": 19,
+      "name": "Airknit Quarter-Zip",
+      "category": "Sweaters",
+      "size": "L",
+      "image": [
+        "https://i.ebayimg.com/images/g/WvoAAOSwr-Bg0PmJ/s-l500.jpg"
+      ],
+      "price": 469
+    },
+    {
+      "id": 20,
+      "name": "AE Athletic Fit Jean",
+      "category": "jeans",
+      "image": [
+        "https://s7d2.scene7.com/is/image/aeo/0118_5362_915_f?$pdp-m-opt$&fmt=webp"
+      ],
+      "price": 689
+    }
+  ]
+}

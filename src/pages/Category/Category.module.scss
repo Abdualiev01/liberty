@@ -1,0 +1,13 @@
+@import '../../theme.scss';
+.card-item{
+    flex-basis: 25%;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    padding-right: 0;
+    
+    
+}

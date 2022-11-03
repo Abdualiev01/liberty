@@ -1,0 +1,23 @@
+@import '../../theme.scss';
+.card-item{
+    flex-basis: 25%;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding-left: 0;
+    padding-right: 0;
+    
+
+    &__title {
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 48px;
+        text-align: center;
+        color: #000;
+        margin-bottom: 30px;
+    }
+    
+} 
